@@ -11,7 +11,7 @@
  * [Demo](https://tjsky.github.io/pikpak/)
 
 ## 安装教程
-  * [教程](https://www.tjsky.net/?p=201)
+  * [安装教程](https://www.tjsky.net/?p=201)
 
 ## 对原版代码的修改
 - [x] 增加对IDM下载功能的引导功能
