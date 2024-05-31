@@ -4,7 +4,7 @@
 ## 官方地址
 
  * [PikPak官网](https://mypikpak.com)
- * [PikPak官方网页版](https://drive.mypikpak.com/)
+ * [PikPak官方的网页版](https://drive.mypikpak.com/)
  * [PikPak官方讨论群组](https://t.me/pikpak_userservice)
 
 ## Demo
